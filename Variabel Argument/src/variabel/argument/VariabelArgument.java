@@ -19,7 +19,7 @@ public class VariabelArgument {
         metodVarArgs(4, 5);
         metodVarArgs(7, 3, 8, 5);
         
-        appendString("värde", "står","som", "står", "ovan");
+        appendString("värde", "på","VarArgs", "står", "ovan");
     }
     public static int metodParam(int a, int b){
         //Normal metod med två parametrar av typ int
